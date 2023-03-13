@@ -6,7 +6,7 @@ This is a repository for a FullStack Netflix Clone project using React, NextJS, 
 
 Features:
 
-- Environment, Typescript, NextJS Setup
+- Environment, Typescript, NextJS - Setup
 - MongoDB & Prisma connect, Database creation
 - Authentication with NextAuth, Google & Github Login
 - Full responsiveness on all pages
